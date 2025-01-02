@@ -27,7 +27,8 @@
     <li>Banco de Dados</li>
     <li>Programação Orientada à Objetos</li>
     <li>Linguagens de Programação</li>
-    <li>Web Development</li>
+    <li>Front-end</li>
+    <li>Back-end</li>
     <li>Inteligência Artificial</li>
     <li>Análise de Dados</li>
   </ul>
