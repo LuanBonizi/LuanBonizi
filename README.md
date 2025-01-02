@@ -1,6 +1,9 @@
 <div align="center">
   <h1>Olá! Eu sou o Luan, bem vindo ao meu perfil!</h1>
-  <p>Atualmente estou cursando Ciência da Computação na UNESP - IBILCE.<br/>Além disso, faço parte do Grupo de Banco de Dados - GBD, um grupo de estudos voltado para Web Development:   https://www.grupogbd.com/PortalGBD/index</p>
+  <p>Atualmente estou cursando Ciência da Computação na UNESP - IBILCE.
+    <br/>Além disso, faço parte do Laboratório de Inovação e Desenvolvimento em Inteligência Artificial - LIDIA, um grupo de estudos focado em Machine Learning e Reconhecimento de padrões.
+    <br/>Também participei do Grupo de Banco de Dados - GBD (https://www.grupogbd.com/PortalGBD/index), com foco em Web Development.
+  </p>
 </div>
 
 <div>
@@ -25,8 +28,8 @@
     <li>Programação Orientada à Objetos</li>
     <li>Linguagens de Programação</li>
     <li>Web Development</li>
-    <li>Game Development</li>
     <li>Inteligência Artificial</li>
+    <li>Análise de Dados</li>
   </ul>
 </div>
 
